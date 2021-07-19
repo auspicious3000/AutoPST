@@ -39,7 +39,7 @@ hparams = HParams(
     alignment_heads = 0,
     
     # pretrained model
-    pretrained_path = './assets/100-A.ckpt',
+    pretrained_path = './assets/xxx.ckpt',
     
     # data loader
     meta_file = './assets/train_vctk.meta',
