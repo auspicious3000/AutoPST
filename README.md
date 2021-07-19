@@ -4,7 +4,7 @@ This repository provides a PyTorch implementation of [AutoPST](https://arxiv.org
 
 This is a short video that explains the main concepts of our work. If you find this work useful and use it in your research, please consider citing our paper.
 
-[![SpeechSplit](./assets/cover.png)](https://youtu.be/)
+[![SpeechSplit](./assets/cover.png)](https://youtu.be/wow2DRuJ69c/)
 
 ```
 @InProceedings{pmlr-v139-qian21b,
