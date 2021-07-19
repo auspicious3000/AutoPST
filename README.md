@@ -1,6 +1,6 @@
 # Global Prosody Style Transfer Without Text Transcriptions
 
-This repository provides a PyTorch implementation of [AutoPST](https://arxiv.org/abs/2106.08519), which enables more detailed speaking style conversion by disentangling speech into content, timbre, rhythm and pitch.
+This repository provides a PyTorch implementation of [AutoPST](https://arxiv.org/abs/2106.08519), which enables unsupervised global prosody conversion without text transcriptions.
 
 This is a short video that explains the main concepts of our work. If you find this work useful and use it in your research, please consider citing our paper.
 
