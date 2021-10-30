@@ -35,6 +35,7 @@ The audio demo for AutoPST can be found [here](https://auspicious3000.github.io/
 - PyTorch == v1.6.0
 - librosa
 - pysptk
+- OpenNMT-py
 - soundfile
 - wavenet_vocoder ```pip install wavenet_vocoder==0.1.1```
   for more information, please refer to https://github.com/r9y9/wavenet_vocoder
