@@ -42,11 +42,11 @@ The audio demo for AutoPST can be found [here](https://auspicious3000.github.io/
 
 ## To Run Demo
 
-Download [pre-trained models](https://drive.google.com/file/d/1ji3Bk6YGvXkPqFu1hLOAJp_SKw-vHGrp/view?usp=sharing) to ```assets```
+Download [pre-trained models](https://ibm.box.com/s/5q6qnhhjiksoj3jjnzgophmr426czuc9) to ```assets```
 
 Download the same WaveNet vocoder model as in [AutoVC](https://github.com/auspicious3000/autovc) to ```assets```
 
-The fast and high-quality hifi-gan v1 (https://github.com/jik876/hifi-gan) pre-trained model is now available [here.](https://drive.google.com/file/d/1n76jHs8k1sDQ3Eh5ajXwdxuY_EZw4N9N/view?usp=sharing)
+The fast and high-quality hifi-gan v1 (https://github.com/jik876/hifi-gan) pre-trained model is now available [here.](https://ibm.box.com/s/asvv554v0zd09yipl2qadz49i7jpdhta)
 
 Please refer to [AutoVC](https://github.com/auspicious3000/autovc) if you have any problems with the vocoder part, because they share the same vocoder scripts.
 
@@ -55,7 +55,7 @@ Run ```demo.ipynb```
 
 ## To Train
 
-Download [training data](https://drive.google.com/file/d/1H1dyA80qREKLHybqnYaqBRRsacIdFbnE/view?usp=sharing) to ```assets```.
+Download [training data](https://ibm.box.com/s/3qn3bip55ps2iqp8gztqmf6rpntfsz64) to ```assets```.
 The provided training data is very small for code verification purpose only.
 Please use the scripts to prepare your own data for training.
 
